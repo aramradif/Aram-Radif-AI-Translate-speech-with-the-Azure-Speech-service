@@ -2,6 +2,27 @@
 
 # Azure Speech Translator
 
+# Azure AI Live Speech Translator
+
+End-to-end Speech-to-Speech Translation system using Azure AI Speech SDK.
+
+## Features
+-  Live microphone translation
+-  File-based translation
+- Real-time speech synthesis
+- English → French / Spanish / Hindi
+- Production-ready modular structure
+
+## Architecture
+
+Speech → SpeechTranslationConfig → TranslationRecognizer → Text Translation  
+Text → SpeechSynthesizer → Audio Output
+
+## Setup
+
+1. Install dependencies
+
+
 This project demonstrates **speech-to-text translation** and **speech synthesis** using **Azure AI Speech Services** in Python.
 
 ## Features
