@@ -1,7 +1,5 @@
 # Aram-Radif-AI-Translate-speech-with-the-Azure-Speech-service
 
-# Azure Speech Translator
-
 # Azure AI Live Speech Translator
 
 End-to-end Speech-to-Speech Translation system using Azure AI Speech SDK.
